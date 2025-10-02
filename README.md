@@ -1,35 +1,38 @@
-# OCTIV: Oklahoma Computational Imaging & Visualization Group
+# OCTIV GitHub Meta Repository
 
-Welcome to **OCTIV**, the official GitHub organization of the *Oklahoma Computational Imaging & Visualization Group* at the **University of Oklahoma**.
-
-We are a research team focused on advancing computational imaging, computer vision, and scientific visualization — with a special emphasis on **Optical Coherence Tomography (OCT)**.
+This repository contains organizational-level documentation and contribution guidelines for **OCTIV** — the *Oklahoma Computational Imaging & Visualization Group* at the **University of Oklahoma**.
 
 ---
 
-## 🎯 Mission
+## 🧭 About OCTIV
 
-We are committed to developing **fast, reliable, and clinically applicable OCT imaging technologies**, spanning:
+OCTIV is a research group dedicated to advancing **Optical Coherence Tomography (OCT)** technologies through innovations in both hardware and software. Our mission is to:
 
-- **Hardware Design**: Custom OCT systems and acquisition platforms
-- **Software Algorithms**: Real-time reconstruction, denoising, and visualization
-- **Clinical Translation**: Bridging lab innovations to bedside applications
+- Accelerate OCT imaging speed
+- Improve reliability and robustness of OCT algorithms
+- Enable broader clinical adoption of OCT for healthcare impact
 
-Our goal is to accelerate imaging speed and improve reliability, ultimately enabling broader clinical adoption of OCT and benefiting healthcare.
-
----
-
-## 🔍 Research Areas
-
-- **Computational Imaging**: Inverse problems, physics-based modeling, and image reconstruction  
-- **OCT Technologies**: System design, signal processing, and clinical validation  
-- **Computer Vision**: Representation learning, multimodal fusion, and semantic understanding  
-- **Visualization**: Scientific data visualization and human-in-the-loop analytics
+We also explore broader topics in computational imaging, computer vision, and scientific visualization.
 
 ---
 
-## 📄 License
+## 📁 Repository Structure
 
-All repositories under OCTIV are released under open-source licenses. Please refer to individual repositories for details.
+This `.github` repository includes:
+
+- `CONTRIBUTING.md`: Guidelines for contributing to OCTIV projects
+- `CODE_OF_CONDUCT.md`: Expected behavior for all contributors and collaborators
+- `ISSUE_TEMPLATE/`: Templates for bug reports, feature requests, and research discussions
+- `PULL_REQUEST_TEMPLATE.md`: Checklist and structure for submitting pull requests
+
+These files help ensure consistency and clarity across all repositories under the OU-OCTIV organization.
 
 ---
 
+## 🤝 Get Involved
+
+We welcome contributions from researchers, developers, and collaborators in the fields of imaging, vision, and visualization.
+
+---
+
+*Empowering discovery through computation and visualization — with OCT at the core.*
